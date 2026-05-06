@@ -5,3 +5,6 @@ pandas
 matplotlib
 seaborn
 pydot
+ipykernel
+jupyter
+nbconvert
