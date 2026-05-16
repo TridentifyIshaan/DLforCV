@@ -8,3 +8,5 @@ pydot
 ipykernel
 jupyter
 nbconvert
+opencv-contrib-python
+caer
